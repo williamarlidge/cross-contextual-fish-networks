@@ -6,7 +6,7 @@ The following repository contains all the R script for the following unpublished
 Understanding the potential for information spread about fisheries bycatch reduction initiatives using cross-contextual 
 information-sharing networks'
 
-The files are complete and correct as of 16 May 2020. Please direct any queries or corrections to 'william.arlidge@gmail.com'
+The files are complete and correct as of XX XXX 2020. Please direct any queries or corrections to 'william.arlidge@gmail.com'
 
 
 ## 1. System requirements
