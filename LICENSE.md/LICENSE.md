@@ -632,7 +632,7 @@ state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     Cross-contextual differences in social networks of small-1 scale fisheries.
-    Copyright (C) 2020  William N. S. Arlidge
+    Copyright (C) 2020  William N. S. Arlidge and Josh A. Firth.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
